@@ -1,4 +1,4 @@
-# HandPoseDetection ✌️
+# Sign Language Recognition ✌️
 
 A Python Handpose Detection Model built using Google's Mediapipe and OpenCV that aims to Track, Process, and Identify Sign Language. 👐
 
