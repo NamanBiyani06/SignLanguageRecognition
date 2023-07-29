@@ -1,0 +1,8 @@
+mediapipe
+cv2
+numpy
+uuid
+os
+time
+PIL
+pandas
